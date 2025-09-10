@@ -258,5 +258,18 @@
       "Basic communication skills",
       "Willing to help on-site"
     ]
+  },
+    {
+    "id": "opp-21",
+    "title": "Community Support Volunteer #20",
+    "description": "Help organize local events and provide assistance to community members. Role #20 includes setup, coordination, and outreach.",
+    "organization_url": "https://www.example-nonprofit.org",
+    "location": "Linz, Austria",
+    "timeframe": "Weekends, 3-4 hours",
+    "requirements": [
+      "Friendly and reliable",
+      "Basic communication skills",
+      "Willing to help on-site"
+    ]
   }
 ]
