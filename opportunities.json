@@ -246,9 +246,9 @@
       "Willing to help on-site"
     ]
   },
-  {
-    "id": "opp-20",
-    "title": "Community Support Volunteer #20",
+    {
+    "id": "opp-21",
+    "title": "Community Support Volunteer #21",
     "description": "Help organize local events and provide assistance to community members. Role #20 includes setup, coordination, and outreach.",
     "organization_url": "https://www.example-nonprofit.org",
     "location": "Linz, Austria",
@@ -260,9 +260,9 @@
     ]
   },
     {
-    "id": "opp-21",
-    "title": "Community Support Volunteer #20",
-    "description": "Help organize local events and provide assistance to community members. Role #20 includes setup, coordination, and outreach.",
+    "id": "opp-22",
+    "title": "Community Support Volunteer #22",
+    "description": "Help organize local events and provide assistance to community members. Role #19 includes setup, coordination, and outreach.",
     "organization_url": "https://www.example-nonprofit.org",
     "location": "Linz, Austria",
     "timeframe": "Weekends, 3-4 hours",
@@ -271,5 +271,5 @@
       "Basic communication skills",
       "Willing to help on-site"
     ]
-  }
+  },
 ]
